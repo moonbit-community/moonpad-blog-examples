@@ -9,6 +9,7 @@ First, install jekyll following the instructions in the [jekyll website](https:/
 Then, run the following commands to build the site and bundle the javascript.
 
 ```bash
+npm i
 jekyll build
 node ./esbuild.js
 ```
