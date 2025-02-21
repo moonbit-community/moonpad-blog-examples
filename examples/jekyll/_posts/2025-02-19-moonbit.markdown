@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Moonbit"
+date: 2025-02-19 15:20:01 +0800
+categories: moonbit
+---
+
+Moonpad in jekyllrb
+
+```moonbit
+fn main {
+  println("hello, moonbit")
+}
+```
+
+In list
+
+- list item
+
+  ```moonbit
+  fn main {
+    println("hello, moonbit")
+  }
+  ```
+
+<link rel="stylesheet" href="/moonpad/index.css" />
+<script type="module" src="/moonpad/index.js"></script>

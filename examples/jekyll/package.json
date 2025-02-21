@@ -1,0 +1,15 @@
+{
+  "name": "jekyll",
+  "version": "1.0.0",
+  "main": "moonpad.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@moonbit/moonpad-monaco": "^0.1.202502170",
+    "esbuild": "^0.25.0",
+    "monaco-editor-core": "^0.52.2"
+  }
+}

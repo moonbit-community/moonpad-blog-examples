@@ -1,0 +1,20 @@
+{
+  "name": "marp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.1.1"
+  },
+  "dependencies": {
+    "@moonbit/moonpad-monaco": "^0.1.202502170",
+    "esbuild": "^0.25.0",
+    "monaco-editor-core": "^0.52.2"
+  }
+}
